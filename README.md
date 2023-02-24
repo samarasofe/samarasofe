@@ -5,7 +5,7 @@ I'm Frontend developer focused on improving user experience. 👩🏽‍💻<br>
 
 About:
 
-🌏 I love traveling and adopting myself to new culture; <br>
+🌏 I love traveling and adapting myself to new cultures; <br>
 
 🪕 Ukulele beginner; <br>
 
