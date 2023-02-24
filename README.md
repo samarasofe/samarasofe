@@ -17,7 +17,7 @@ About:
 
 🌄 Hiking with friends; <br>
 
-⚡ Fun fact: I have an identical twin sister. <br><br>
+⚡ Fun fact: I have an identical twin sister.😄 <br><br>
 
 
 ### Languages <br>
