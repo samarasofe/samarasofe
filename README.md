@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hello there! 👋
+<br>
 
-<!--
-**samarasofe/samarasofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer focused on improving user experience. 👩🏽‍💻<br><br>
 
-Here are some ideas to get you started:
+About:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌏 I love traveling and adopting myself to new culture; <br>
+
+🪕 Ukulele beginner; <br>
+
+📸 Fashionista; <br>
+
+🕵🏽‍♀️ Puzzle-films; <br>
+
+📖 Magical Realism Books; <br>
+
+🌄 Hiking with friends; <br>
+
+⚡ Fun fact: I have an identical twin sister. <br><br>
+
+
+### Languages <br>
+
+
+🇧🇷 Portuguese <br>
+
+🌐 International English; <br><br>
+
+
+### Other works: <br>
+
+CV: https://www.linkedin.com/in/samara-ferreira-276695205/
+
+Portfolio: https://samarasofe.com/
+
+
