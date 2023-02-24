@@ -1,7 +1,7 @@
 ### Hello there! 👋
 <br>
 
-I'm a Frontend developer focused on improving user experience. 👩🏽‍💻<br><br>
+I'm Frontend developer focused on improving user experience. 👩🏽‍💻<br><br>
 
 About:
 
