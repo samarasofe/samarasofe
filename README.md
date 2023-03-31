@@ -32,6 +32,6 @@ About:
 
 CV: https://www.linkedin.com/in/samara-ferreira-276695205/
 
-Portfolio: https://samarasofe.com/
+Portfolio: https://samarasofe.tech/
 
 
