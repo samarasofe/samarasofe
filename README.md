@@ -30,7 +30,7 @@ About:
 
 ### Other works: <br>
 
-CV: https://www.linkedin.com/in/samara-ferreira-276695205/
+LinkedIn: https://www.linkedin.com/in/samarasofe/
 
 Portfolio: https://samarasofe.tech/
 
